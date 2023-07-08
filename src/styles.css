@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(184, 183, 181);
+}
+
+.breed-select {
+    background-color: rgb(249, 211, 217);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.breed-select:hover,
+.breed-select:focus {
+    border-color: rgb(215, 196, 196);
+    outline: none;
+}
+
+select option {
+    background-color: #302f2c;
+    color: rgb(229, 185, 185);
+  }
+
+.loader {
+    display: block;
+}
+
+.error {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.cat-info {
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(57, 57, 57);
+    color: rgb(255, 210, 196);
+}
